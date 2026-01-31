@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-ndarray-dstdevwd",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the standard deviation of a one-dimensional double-precision floating-point ndarray using Welford's algorithm.",
   "license": "Apache-2.0",
   "author": {
@@ -42,7 +42,7 @@
     "@stdlib/ndarray-base-numel-dimension": "^0.3.2",
     "@stdlib/ndarray-base-offset": "^0.2.2",
     "@stdlib/ndarray-base-stride": "^0.2.2",
-    "@stdlib/stats-strided-dstdevwd": "github:stdlib-js/stats-strided-dstdevwd#main",
+    "@stdlib/stats-strided-dstdevwd": "^0.1.0",
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
